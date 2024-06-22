@@ -1,0 +1,123 @@
+#icon1{
+    color: #8064A2;
+}
+
+#btn1{
+    border: solid #8064A2;
+    color: #8064A2;
+}
+
+#card-hover1{
+    border: solid #8064A2;
+}
+
+#card-hover1:hover{
+    background-color: #8064A2;
+
+    #icon1{
+        color: #FFFFFF;
+    }
+
+    #para1{
+        color: white;
+    }
+
+    #btn1{
+        border: solid #FFFFFF;
+        color: #FFFFFF;
+    }
+}
+
+
+#icon2{
+    color: #77933C;
+}
+
+#btn2{
+    border: solid #77933C;
+    color: #77933C;
+}
+
+#card-hover2{
+    border: solid #77933C;
+}
+
+#card-hover2:hover{
+    background-color: #77933C;
+
+    #icon2{
+        color: #FFFFFF;
+    }
+
+    #para2{
+        color: white;
+    }
+
+    #btn2{
+        border: solid #FFFFFF;
+        color: #FFFFFF;
+    }
+}
+
+#icon3{
+    color: #C0504D;
+}
+
+#btn3{
+    border: solid #C0504D;
+    color: #C0504D;
+}
+
+#card-hover3{
+    border: solid #C0504D;
+}
+
+#card-hover3:hover{
+    background-color: #C0504D;
+
+    #icon3{
+        color: #FFFFFF;
+    }
+
+    #para3{
+        color: white;
+    }
+
+    #btn3{
+        border: solid #FFFFFF;
+        color: #FFFFFF;
+    }
+}
+
+
+#icon4{
+    color: #0096C8;
+}
+
+#btn4{
+    border: solid #0096C8;
+    color: #0096C8;
+}
+
+#card-hover4{
+    border: solid #0096C8;
+}
+
+#card-hover4:hover{
+    background-color: #0096C8;
+
+    #icon4{
+        color: #FFFFFF;
+    }
+
+    #para4{
+        color: white;
+    }
+
+    #btn4{
+        border: solid #FFFFFF;
+        color: #FFFFFF;
+    }
+}
+
+
